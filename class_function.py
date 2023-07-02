@@ -6,7 +6,7 @@ from statsmodels.tsa.vector_ar.var_model import VAR
 from sklearn.metrics import mean_absolute_error, mean_absolute_percentage_error, mean_squared_error
 import re
 
-
+#Abacate é bom
 # analise = TimeSeriesAnalysis(df)
 # df_estacionado = analise.estacionar(analise.df_75)
 
